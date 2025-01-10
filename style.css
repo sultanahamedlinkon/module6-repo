@@ -1,0 +1,174 @@
+*{
+ margin: 0;
+ padding: 0;
+}
+.navbar{
+ display: flex;
+ justify-content: space-around;
+ padding: 10px;
+}
+.resume{
+ padding: 10px 15px;
+ background-color: white;
+ border: 1px solid gray;
+ border-radius: 5px;
+ font-weight: bold;
+}
+.banner-image{
+ width: 170px;
+ margin-top: 100px;
+}
+.banner-contenar{
+ width: 100%;
+ height: 70vh;
+ background-image: url(../B10A1-Challenge-Begins/assets/Hero-bg.png);
+text-align: center;
+}
+.connect{
+ padding: 10px 15px;
+ background-color: black;
+ color: white;
+ border: none;
+ border-radius: 5px;
+}
+.banner-title{
+ padding-top: 20px;
+}
+.banner-subtitle{
+ padding-top: 20px;
+ padding-bottom: 20px;
+}
+.connect{
+ align-items: center;
+}
+main{
+ width: 80%;
+ background-color: whitesmoke;
+ margin: 0 auto;
+ text-align: center;
+ padding: 20px;
+}
+.box1{
+ display: flex;
+ margin: 0 auto;
+ width: 70%;
+ justify-content:space-around ;
+margin-top: 50px;
+justify-content: center;
+align-items: center; 
+box-shadow: 4px 4px 8px gray;
+text-align:justify;
+padding-left: 20px;
+justify-content: space-between;
+}
+.box-title{
+ font-weight: bold;
+ font-size: 30px;
+ margin-bottom: 10px;
+}
+.sub-title{
+ font-size: 20px;
+ color: gray;
+ margin-bottom: 10px;
+}
+.box-btn{
+padding: 10px 15px;
+background-color: rgb(247, 241, 241);
+color: rgb(19, 17, 17);
+border: none;
+border: 1px solid rgb(5, 2, 2);
+border-radius: 5px;
+}
+.box-btn:hover{
+background-color: hotpink;
+
+}
+.box2{
+ width: 70%;
+ margin: 0 auto;
+ margin-top:120px;
+ text-align: left;
+ display: flex;
+ justify-content: flex-start;
+align-items: center;
+gap: 20px;
+background-color: wheat;
+}
+
+.box3{
+ width: 70%;
+ margin: 0 auto;
+ margin-top:120px;
+ text-align: left;
+ display: flex;
+ justify-content: flex-start;
+align-items: center;
+gap: 80px;
+margin-bottom: 30px;
+padding-left: 20px;
+border: 1px solid black;
+}
+.headding-title{
+margin: 10px ;
+}
+
+.terget-contenner{
+ margin-top: 90px;
+}
+.box-contenar{
+ display: flex;
+ margin-top: 40px;
+ gap: 20px;
+ align-items: center;
+ justify-content: center;
+}
+.html-box{
+text-align: justify;
+height: 200px;
+width: 300px;
+border-radius: 5px;
+padding: 20px;
+background-color: aliceblue;
+}
+.css-box{
+ text-align: justify;
+ height: 200px;
+ width: 300px;
+ border-radius: 5px;
+ padding: 20px;
+ background-color: rgb(213, 230, 238);
+ }
+ .js-box{
+  text-align: justify;
+  height: 200px;
+  width: 300px;
+  padding: 20px;
+  border-radius: 5px;
+  background-color: rgb(192, 208, 214);
+  }
+  .title-box{
+   margin: 10px;
+  }
+  footer{
+   display: flex;
+   margin-top: 40px;
+   justify-content: space-around;
+   align-items: center;
+   background-color: rgb(214, 210, 210);
+  }
+  .footer-right img{
+   align-items: center;
+   padding-left:30px ;
+   margin-top: 70px;
+   color: white;
+  }
+  .footer-left{
+   color: black;
+   margin-top: 50px;
+   text-align: center;
+   width: 500px;
+   justify-content: center;
+  }
+  .heading{
+   text-align: center;
+  }
